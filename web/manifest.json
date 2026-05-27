@@ -1,0 +1,9 @@
+{
+  "name": "Safety Lens",
+  "short_name": "SafetyLens",
+  "start_url": ".",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#000000",
+  "description": "Safety Lens Web App"
+}
